@@ -12,3 +12,5 @@
             - Factoid: "You swallow an average of eight spiders a year while sleeping."
             - Fact: The belief that you swallow eight spiders a year while sleeping is a myth; there's no scientific evidence to support it. Spiders                          generally avoid humans and their sleeping spaces.
 
+![Bug](bug.gif)
+
